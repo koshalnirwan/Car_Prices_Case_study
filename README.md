@@ -7,7 +7,8 @@ They have contracted an automobile consulting company to understand the factors 
 
 1. Which variables are significant in predicting the price of a car
 2. How well those variable describe the price of car
-Based on various market surveys, the consulting firm has gathered a largr dataset of different types of cars across the American market.
+
+Based on various market surveys, the consulting firm has gathered a large dataset of different types of cars across the American market.
 
 ### Business Goal
 You are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with independent variables. They can accordingly manipulate the desigh of the cars, the business stratergy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a market.
